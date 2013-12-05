@@ -19,12 +19,12 @@ body{
     background: transparent url("/static/img/logo.png") 1px 50% no-repeat;
 }
     .name{
-        color: white;
+        color: #FFF;
         margin: 0 0 0 122px;
         font-size: 65px;
     }
     .name_2{
-        color: white;
+        color: #FFF;
         margin: 0 0 0 122px;
         font-size: 19px;
         letter-spacing: 3px;
@@ -47,7 +47,7 @@ body{
     width: 900px;
     margin: 0 auto;
     background: #FFFFFF;
-    border: none;
+    border: 1px solid silver;
     border-top: 5px solid #6DBCDB;
 }
     #body_cont{
