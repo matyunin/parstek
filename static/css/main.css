@@ -18,6 +18,7 @@ body{
     height: 105px;
     text-decoration: none;
     background: transparent url("/static/img/logo.png") 1px 50% no-repeat;
+    margin: 35px 0;
 }
     .name{
         color: #FFF;
@@ -52,7 +53,7 @@ body{
     border-top: 5px solid #6DBCDB;
 }
     #body_cont{
-        padding: 15px;
+        padding: 50px;
     }
     #footer_cont{
         color: #FFF;
